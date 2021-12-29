@@ -1,6 +1,6 @@
-# scaffold
+# scaffold-python
 
-[![Python Application Test with Github Actions](https://github.com/aycandv/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/aycandv/scaffold/actions/workflows/main.yml)
+[![Python Application Test with Github Actions](https://github.com/aycandv/scaffold-python/actions/workflows/main.yml/badge.svg)](https://github.com/aycandv/scaffold-python/actions/workflows/main.yml)
 
 This is a scaffold for Python
 
